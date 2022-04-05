@@ -1,0 +1,51 @@
+body{
+    background-color:lightgrey;
+    font-family: 'Red Hat Mono', monospace;
+}
+
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: lightgrey;
+    position: absolute; top: 92px; left: 30px;
+  }
+
+h1, h6{
+    color:black;
+    position: absolute; top: -10px; left: 30px;
+    
+}
+
+p{
+    text-indent: 30px;
+    color: green;
+}
+
+h1{
+    font-size: 50px;
+}
+
+#paragraph1{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    position: absolute; top:200px; 
+    padding: 10px;
+} 
+
+#page{
+    background-color:gray;
+    height: 500px; 
+    width: 1000px;
+    position: absolute; top: 115px; left: 30px;
+}
+
+#image1{
+    height: 1000px; 
+    width: 1000px;
+}
+
+
+#paragraph2 {
+    position: absolute; top: 200px; left: 100px;
+}
